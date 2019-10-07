@@ -11,7 +11,7 @@ Steps for local testing and development:
 3. npm install
 4. npm run
 
-Project should be opened on localhost if everything is correctly installed.
+Project should open on localhost if everything is correctly installed.
 
 **Hardcoded login details:**
 
