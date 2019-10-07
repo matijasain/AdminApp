@@ -16,6 +16,7 @@ Project should be opened on localhost if everything is correctly installed.
 Hardcoded login details:
 
 Name: Mat
+
 Password: mat@test.com
 
 ---
