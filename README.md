@@ -1,4 +1,4 @@
-Admin Panel Website done for exercise purpose
+## Admin Panel App
 
 Required tools:
 Node
@@ -13,7 +13,7 @@ Steps for local testing and development:
 
 Project should be opened on localhost if everything is correctly installed.
 
-Hardcoded login details:
+**Hardcoded login details:**
 
 Name: Mat
 
